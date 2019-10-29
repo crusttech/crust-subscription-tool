@@ -1,0 +1,14 @@
+/*.pem
+/.idea
+/coverage.txt
+/*.iml
+/.env*
+/.dev*
+/.*cover.out*
+/overalls*
+profile.coverprofile
+/public_html
+/build
+/var
+/TODO
+/make-crust-sub
